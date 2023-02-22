@@ -1,4 +1,4 @@
-# *Hi!* I'm Aaron, an iOS Developer based in Leicestershire, UK.
+## *Hi!* I'm Aaron, an iOS Developer based in Leicestershire, UK.
 
 ## I currently have 3 apps published in the App Store:
 
